@@ -1,8 +1,5 @@
 # Amazon-Sales-Performance-Dashboard
 Interactive Power BI dashboard analysing 100K Amazon orders (2020-2024). Features KPI cards, slicers and 6 charts built with DAX and a custom date table. Insights: the US drives ~70% of revenue, credit cards lead payments, and ~6% of orders are cancelled or returned.
-# Amazon Sales Performance Dashboard
-
-Interactive Power BI dashboard analysing 100,000 Amazon orders (2020-2024).
 
 ## Key Insights
 - Total revenue: $91.8M across 100K orders (average order value $918)
