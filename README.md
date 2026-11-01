@@ -4,8 +4,6 @@ Interactive Power BI dashboard analysing 100K Amazon orders (2020-2024). Feature
 
 Interactive Power BI dashboard analysing 100,000 Amazon orders (2020-2024).
 
-![Dashboard](amazon-sales-dashboard.png)
-
 ## Key Insights
 - Total revenue: $91.8M across 100K orders (average order value $918)
 - The US contributes about 70% of revenue
